@@ -82,9 +82,7 @@ html, body {
 }
 
 h1 {
-	font-family: Jeanne-Moderno-Titling, serif;
-	font-style: normal;
-	font-weight: 500;
+	font-family: Didot, serif;
 	font-size: 2em;
     margin: 0px auto 10px auto;
     color: rgb(80, 80, 80);
