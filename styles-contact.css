@@ -81,17 +81,16 @@ html, body {
 
 h1 {
 	font-family: 'Josefin Sans', sans-serif;
-	font-weight: 300;
-	font-size: 1.3em;
+	font-weight: bold;
+	font-size: 1.2em;
 	line-height: 1.4;
 	color: rgb(255, 255, 255);
 	padding: 0px 0px;
 	margin: 25px auto 25px auto;
 }
 h2 {
-	font-family: didot, serif;
-	font-style: light;
-	font-weight: 500;
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
 	font-size: 1.5em;
 	line-height: 1.4;
 	color: rgb(255 255 255);
