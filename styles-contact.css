@@ -89,8 +89,9 @@ h1 {
 	margin: 25px auto 25px auto;
 }
 h2 {
-	font-family: 'Playfair Display', serif;
-	font-weight: 400;
+	font-family: didot, serif;
+	font-style: light;
+	font-weight: 500;
 	font-size: 1.5em;
 	line-height: 1.4;
 	color: rgb(255 255 255);
@@ -133,5 +134,5 @@ a{
 	}
 
 a:hover{
-	color:rgb(102, 102, 102);
+	color:rgb(175, 171, 163);
 	}
