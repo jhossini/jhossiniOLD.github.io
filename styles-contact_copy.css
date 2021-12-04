@@ -79,41 +79,36 @@ html, body {
 	text-align: center;
 }
 
-h1 { font-family: Didot; 
-	font-size: 35px; 
-	font-style: normal; 
-	font-variant: small-caps; 
-	font-weight: 400; 
-	line-height: 29px; 
-	color: rgb(80, 80, 80);
+h1 {
+	font-family: didot, serif;
+	font-size: 2em;
+    margin: 0px auto 10px auto;
+    color: rgb(80, 80, 80);
 }
 
-h3 { font-family: Didot; 
-	font-size: 19px; 
-	font-style: italic; 
-	font-variant: normal; 
-	font-weight: 700; 
-	line-height: 28.5px;
-	color: rgb(80, 80, 80);
-} 
-	
-p { font-family: Didot; 
-	font-size: 18px; 
-	font-style: normal; 
-	font-variant: normal; 
-	font-weight: 400; 
-	line-height: 27px;
-	color: rgb(80, 80, 80);
+h2 {
+	font-family: didot, serif;
+	font-style: light;
+	font-weight: 500;
+	font-size: 1.5em;
+    line-height: 1.4;
+    color: rgb(80, 80, 80);
+    padding: 0px 0px;
+    margin: 25px auto 15px auto;
 }
 
+p {
+	font-family: didot, serif;	
+	font-size: 1.2em; 
+    line-height: 1.6;
+    color: rgb(80, 80, 80);
+}
     
 nav{
-	font-family: Didot; 
-	font-size: 18px; 
-	font-style: normal; 
-	font-variant: normal; 
-	font-weight: 400; 
-	line-height: 27px;
+	font-family: didot, serif;
+	font-size: 1.2em;
+    width: 400px;
+	margin: 0 auto;
 	border: solid rgb(180, 117, 0);
     border-width: 2px 0;
 	margin-top: 2em;
